@@ -1,0 +1,24 @@
+{
+  "name": "nice-crypto",
+  "version": "0.0.1",
+  "description": "A safe and easy-to-use crypto API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tniessen/node-nice-crypto.git"
+  },
+  "keywords": [
+    "crypto",
+    "safe",
+    "easy"
+  ],
+  "author": "Tobias Nießen <tniessen@tnie.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tniessen/node-nice-crypto/issues"
+  },
+  "homepage": "https://github.com/tniessen/node-nice-crypto#readme"
+}
